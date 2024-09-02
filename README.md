@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Deep016
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in python, data science , ml and ai
 - 💞️ I’m looking to collaborate on github
 - 📫 you can reach me using mail aroradeepanshu016@gmail.com
 
